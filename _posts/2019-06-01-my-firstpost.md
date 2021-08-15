@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Hello World!!"
-date: 2019-06-01
 ---
 
 Finally. After a long time, got this website up and running.
