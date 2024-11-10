@@ -1,9 +1,9 @@
-body { margin: 60px auto; width: 70%; }
+body { margin: 60px auto; width: 60%; line-height:1.6; font-size:18px; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
 
-p, ol, ul, code { font-size: 1.5em; line-height: 1.4em; color: #333; }
+p, ol, ul, code { color: #333; }
 
 h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 h1 { font-size: 3em;  }
@@ -17,7 +17,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
-ul.posts li { list-style: none; }
+/* ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts li { list-style: none; } */
 /* ol.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ol.posts li { list-style: none; } */
