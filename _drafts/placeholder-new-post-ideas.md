@@ -15,3 +15,4 @@ Ideas:
 9.  CSS sharing between to project pages on github
 10. Text fragments [link](https://developer.mozilla.org/en-US/docs/Web/URI/Fragment/Text_fragments)
     1. I always forget this one
+11. Git hooks
