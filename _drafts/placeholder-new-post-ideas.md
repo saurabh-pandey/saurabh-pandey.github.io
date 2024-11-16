@@ -16,3 +16,6 @@ Ideas:
 10. Text fragments [link](https://developer.mozilla.org/en-US/docs/Web/URI/Fragment/Text_fragments)
     1. I always forget this one
 11. Git hooks
+12. Recent work on LLM with RAG (maybe using Docker)
+13. systemd
+14. Order of Destruction of statics in C++ and its implications
