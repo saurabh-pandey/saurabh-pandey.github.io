@@ -19,3 +19,4 @@ Ideas:
 12. Recent work on LLM with RAG (maybe using Docker)
 13. systemd
 14. Order of Destruction of statics in C++ and its implications
+15. gdb
