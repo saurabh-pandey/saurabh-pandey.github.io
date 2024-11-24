@@ -20,3 +20,4 @@ Ideas:
 13. systemd
 14. Order of Destruction of statics in C++ and its implications
 15. gdb
+16. Small git tutorial using just local git bare repo
