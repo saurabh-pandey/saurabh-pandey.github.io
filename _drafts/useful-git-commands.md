@@ -30,6 +30,8 @@ Below are some commands that I find useful in day-to-day work.
 
 **git co \<branch_name\>:** Just checkout an existing branch
 
+**git co \<branch_name\> - - \<file_name\>:** Checkout a file from an existing branch into the current branch
+
 **git diff:** Check the changes done so far
 
 **git add .:** Add everything to the stage
